@@ -1,0 +1,15 @@
+.tr{
+	cursor:help;
+	color:red;
+	font-size: 30px;
+}
+.tt{
+    font-size:2rem;
+	visibility:hidden;
+	
+	
+}
+.td{
+	font-size: 30px;
+	visibility:visibility;
+}
